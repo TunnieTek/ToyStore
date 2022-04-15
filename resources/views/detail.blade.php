@@ -48,20 +48,12 @@
                                 <table>
                                     <tr>
                                         <th><h4>COLOR</h4></th>
-                                        <th><h4>SIZE</h4></th>
                                     </tr>
                                     <tr>
                                         <td>
                                             <select>
                                                 @foreach ($color as $item)
                                                     <option value="{{$item->color}}">{{$item->color}}</option>
-                                                @endforeach
-                                            </select>
-                                        </td>
-                                        <td>
-                                            <select name="size" id="">
-                                                @foreach ($size as $item )
-                                                    <option value="{{$item->sizeid}}">{{$item->size}}</option>
                                                 @endforeach
                                             </select>
                                         </td>

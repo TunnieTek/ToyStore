@@ -23,7 +23,7 @@
                 <div class="row">
                     <div class="col-xl-2"></div>
                     <div class="col-xl-8">
-                        <img src="BevisSneaker/images/News/{{$value->images}}" class="news-img">
+                        <img src="BevisSneaker/images/{{$value->images}}" class="news-img">
                     </div>
                     <div class="col-xl-2"></div>
                 </div>

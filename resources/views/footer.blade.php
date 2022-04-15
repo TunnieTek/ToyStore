@@ -23,9 +23,9 @@
                                 <div class="col-xl-3">
                                     <a href="#"><h4>PRODUCT</h4></a>
                                     <ul>
-                                        <li><a href="#">Men Shoes</a></li>
-                                        <li><a href="#">Women Shoes</a></li>
-                                        <li><a href="#">Fashion & Item</a></li>
+                                        <li><a href="#">Toys for Girls</a></li>
+                                        <li><a href="#">Toys for Boys</a></li>
+                                        <li><a href="#">Toys</a></li>
                                         <li><a href="#">Sale-off</a></li>
                                     </ul>
                                 </div>
@@ -50,7 +50,7 @@
                                 <div class="col-xl-3">
                                     <a href="#"><h4>CONTACT</h4></a>
                                     <ul>
-                                        <li><a href="#">Email: bavis-support@travatrix.com</a></li>
+                                        <li><a href="#">Email: quachcongtuan@travatrix.com</a></li>
                                         <li><a href="#">Phone Number: 099 9999 999</a></li>
                                         <li><a href="#">Facebook: Travatrix Corporation</a></li>
                                         <li><a href="#">Other</a></li>
@@ -94,7 +94,7 @@
                                     </div>
                                 </div>
                                 <div class="col-xl-6">
-                                    <img src="../BevisSneaker/images/footerlogo.png" alt="">
+
                                 </div>
                             </div>
                         </div>

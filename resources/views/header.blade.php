@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="{{url('BevisSneaker')}}/b-style.css">
         <link rel="icon" href="{{url('BevisSneaker')}}/favicon.ico" type="image/x-icon" />
         <link href="//db.onlinewebfonts.com/c/5bf04c97279e55318d67c21101cfd898?family=URW+Geometric" rel="stylesheet" type="text/css" />
-        <title>@yield('title','Bevis | DiscoverYOU')</title>
+        <title>@yield('title','KIDNIE |Toy Store')</title>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
      </head>
@@ -48,7 +48,7 @@
                     <div class="navbar">
                         <div class="col-xl-3">
                             <!-- LOGO -->
-                            <img src="../BevisSneaker/images/LOGO--001.png" alt="">
+                            <img src="../BevisSneaker/images/logo.png" alt="">
                         </div>
                         <div class="col-xl-6">
                             <!-- Navbar -->
@@ -56,13 +56,13 @@
                                 <ul style="margin-bottom: 0;">
                                     <li><a href="{{route('index')}}"><h4>HOME</h4></a></li>
                                     <li class="line"></li>
-                                    <li><a href="{{route('product')}}"><h4>PRODUCT</h4></a></li>
+                                    <li><a href="{{route('product')}}"><h4>COMEHERE</h4></a></li>
                                     <li class="line"></li>
                                     <li><a href="{{route('news')}}"><h4>NEWS</h4></a></li>
                                     <li class="line"></li>
                                     <li><a href="#"><h4>SALE OFF</h4></a></li>
                                     <li class="line"></li>
-                                    <li><h4 style="color: #ff5f17">TRAVATRIX</h4></li>
+                                    <li><h4 style="color: #ff5f17">TOYSTORE</h4></li>
                                 </ul>
                             </div>
                         </div>

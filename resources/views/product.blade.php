@@ -9,23 +9,23 @@
                     <div class="col-xl-2"></div>
                     <div class="col-xl-2">
                         <div class="filter">
-                            <h4><a href="#">BOTH</a> | <a href="#">MEN</a> | <a href="#">WOMEN</a></h4>
+                            <h4><a href="#">BOTH</a> | <a href="#">BOY</a> | <a href="#">GIRL</a></h4>
                             <hr style="border: 2px solid">
                             <div class="accordion accordion-flush" id="accordionFlushExample">
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="flush-headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                                        <h5>SNEAKER</h5>
+                                        <h5>CAR</h5>
                                     </button>
                                     </h2>
                                     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                                         <div class="accordion-body">
                                             <ul>
-                                                <li><a href="#">Limited Edition</a></li>
-                                                <li><a href="#">Online Only</a></li>
-                                                <li><a href="#">Sale Off</a></li>
-                                                <li><a href="#">Best Seller</a></li>
-                                                <li><a href="#">New Arrival</a></li>
+                                                <li><a href="#">Super Car</a></li>
+                                                <li><a href="#">Mercesdes</a></li>
+                                                <li><a href="#">BWM</a></li>
+                                                <li><a href="#">Robotor</a></li>
+                                                <li><a href="#">Tesla</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -36,20 +36,17 @@
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="flush-headingOne">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseOne">
-                                        <h5>SIZE</h5>
+                                        <h5>DOLL</h5>
                                     </button>
                                     </h2>
                                     <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                                         <div class="accordion-body">
                                             <ul>
-                                                <li><a href="#">36</a></li>
-                                                <li><a href="#">37</a></li>
-                                                <li><a href="#">38</a></li>
-                                                <li><a href="#">39</a></li>
-                                                <li><a href="#">40</a></li>
-                                                <li><a href="#">41</a></li>
-                                                <li><a href="#">42</a></li>
-                                                <li><a href="#">43</a></li>
+                                                <li><a href="#">Elsa</a></li>
+                                                <li><a href="#">Kangaroo</a></li>
+                                                <li><a href="#">Teddy</a></li>
+                                                <li><a href="#">Oggy</a></li>
+                                                <li><a href="#">Tom</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -84,7 +81,7 @@
                             <div class="container-fluid">
                                 <div class="row">
                                     <div class="col-xl-12">
-                                        <img src="{{'BevisSneaker'}}/images/banner-ed.jpg" alt="">
+                                        <img src="{{'BevisSneaker'}}/images/banner-ed.png" alt="">
                                     </div>
                                 </div>
                             </div>
