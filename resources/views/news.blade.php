@@ -16,9 +16,9 @@
                 padding: 0 !important;
             }
          </style>
+            @foreach ($news as $value )
         <div class="recommend">
             <h1 style="text-align: center; font-family: 'URW Geometric'; padding: 50px;">- NEWS -</h1>
-            @foreach ($news as $value )
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-xl-2"></div>
@@ -56,8 +56,8 @@
                     <div class="col-xl-3"></div>
                 </div>
             </div>
-            @endforeach
         </div>
+        @endforeach
    </section>
 @include('footer')
 
